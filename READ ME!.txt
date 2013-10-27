@@ -1,0 +1,10 @@
+Author: NINSIIMA FLAVIA DELMIRA
+Date: 24th October, 2013
+
+Assignment1: Demonstrates PHP manipulation of a log_file on a server
+Assignment2: NetBeans project, JAVA! Demonstrates creation of a linked list library called mylib1.
+             myapp1 is a Java application that imports the library and uses the properties and methods of the defined list.
+Assignment3: Demonstrates the use of BATIK and SVG to implement a fractal bush algorithm.
+Assignment4: Expounds on plans for Search Engine Optimization and Advertisement with Facebook & Google.
+
+FieldAttachmentReport: Highlights challenges, experiences, realizations e.t.c of the Internship
